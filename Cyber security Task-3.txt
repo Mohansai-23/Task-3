@@ -1,0 +1,7 @@
+* Downloaded Nessus Essential
+* Set up local scan
+ by clicking new scans-> Advanced Scan-> give a name like "Local Scan1" and give the ip address and save.
+* Now start full vulnerability Scan by going to scans and press the play button to start scan(it takes 30-60 mins)
+* Once the scan is complete you can see the vulnerabilities by severity(low, medium, high, critical)
+
+*By clicking these vulnerability found we can know the description of it, affected software and how to fix it.
